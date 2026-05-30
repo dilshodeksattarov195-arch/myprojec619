@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvncrypt",
+        "uuid": 2464239,
+        "checksum": "zvqlve"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
